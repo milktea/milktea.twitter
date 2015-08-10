@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="milktea.twitter"
+        interface="milktea.twitter.interfaces.IProductSpecific" />
+</layers>
